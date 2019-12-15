@@ -1,2 +1,6 @@
-# monte_carlo
-An algorithm of the monte carlo.
+# Monte Carlo - example
+A simple implementation of the Monte Carlo algorithm.
+
+
+
+ 
